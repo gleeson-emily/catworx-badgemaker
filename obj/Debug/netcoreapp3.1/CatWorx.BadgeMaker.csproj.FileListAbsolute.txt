@@ -30,3 +30,4 @@ C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\b
 C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CopyComplete
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
